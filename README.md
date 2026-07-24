@@ -24,7 +24,7 @@ This repository contains my final-year thesis on customer feedback sentiment ana
 
 ## Results
 - Processed over 50,000 customer reviews
-- Achieved over 56% classification accuracy
+- Achieved over 94% classification accuracy
 - Compared models using Accuracy, Precision, Recall, and F1-score
 
 ## Author
